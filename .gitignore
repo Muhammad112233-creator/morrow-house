@@ -1,0 +1,17 @@
+# Dependencies and framework output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+*.log
+npm-debug.log*
+
+# Local environments and editor/OS files
+.env*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
